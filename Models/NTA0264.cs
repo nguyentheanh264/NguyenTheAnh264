@@ -11,7 +11,9 @@ namespace NguyenTheAnh0264.Models
 
         [Key]
         public int NTAId { get; set; }
+         [Display(Name = "Tên")]
         public string NTAName { get; set; }
         public string NTAGender { get; set; }
+        [Display(Name = "Giới Tính")]
     }
 }

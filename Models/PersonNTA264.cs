@@ -11,6 +11,8 @@ namespace MVCPerson.Models
 
         [Key]
         public int PersonId { get; set; }
+        [Required(ErrorMessage="Please enter product name.")]
+         [Display(Name = "Tên")]
         public string PersonName { get; set; }
 
     }

@@ -170,3 +170,8 @@ C:\Project\Back-end\NetCore\NguyenTheAnh264\obj\Debug\net5.0\Razor\Views\PersonN
 C:\Project\Back-end\NetCore\NguyenTheAnh264\obj\Debug\net5.0\Razor\Views\PersonNTA\Details.cshtml.g.cs
 C:\Project\Back-end\NetCore\NguyenTheAnh264\obj\Debug\net5.0\Razor\Views\PersonNTA\Edit.cshtml.g.cs
 C:\Project\Back-end\NetCore\NguyenTheAnh264\obj\Debug\net5.0\Razor\Views\PersonNTA\Index.cshtml.g.cs
+C:\Project\Back-end\NetCore\NguyenTheAnh264\obj\Debug\net5.0\Razor\Views\NguyenTheAnh0264\Create.cshtml.g.cs
+C:\Project\Back-end\NetCore\NguyenTheAnh264\obj\Debug\net5.0\Razor\Views\NguyenTheAnh0264\Delete.cshtml.g.cs
+C:\Project\Back-end\NetCore\NguyenTheAnh264\obj\Debug\net5.0\Razor\Views\NguyenTheAnh0264\Details.cshtml.g.cs
+C:\Project\Back-end\NetCore\NguyenTheAnh264\obj\Debug\net5.0\Razor\Views\NguyenTheAnh0264\Edit.cshtml.g.cs
+C:\Project\Back-end\NetCore\NguyenTheAnh264\obj\Debug\net5.0\Razor\Views\NguyenTheAnh0264\Index.cshtml.g.cs
